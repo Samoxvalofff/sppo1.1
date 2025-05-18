@@ -1,6 +1,6 @@
 package patterns.observer;
 
-import patterns.builder.DietPlan;
+import domain.diet.DietPlan;
 import patterns.factory.Product;
 
 
